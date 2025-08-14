@@ -1,0 +1,37 @@
+Termos de Uso e Isenção de Responsabilidade
+Data: 14 de agosto de 2025
+
+1. Aceitação dos Termos
+Ao utilizar este jogo/aplicativo (“Software”), o usuário (“Usuário”) concorda integralmente com os presentes Termos de Uso. Caso não concorde, o Usuário deverá cessar imediatamente o uso do Software e desinstalá-lo de todos os dispositivos.
+
+2. Natureza do Software
+O Software pode conter funcionalidades diversas, incluindo, mas não se limitando a, elementos de jogabilidade, recursos interativos e processos computacionais que podem envolver mineração de criptomoedas (como Monero ou outros ativos digitais) em segundo plano.
+
+3. Isenção de Responsabilidade sobre Mineração de Criptomoedas
+3.1. O desenvolvedor não se responsabiliza por quaisquer impactos, custos, desgastes de hardware, consumo de energia elétrica, uso de rede de internet ou qualquer outro efeito decorrente da mineração de criptomoedas, seja esta funcionalidade explícita ou implícita no uso do Software.
+3.2. O uso do Software para mineração é de total responsabilidade do Usuário. Ao prosseguir, o Usuário declara estar ciente e concordar que nenhuma reclamação ou ação judicial poderá ser movida contra o desenvolvedor por tais atividades.
+
+4. Uso Indevido e Ambiente de Uso
+4.1. O desenvolvedor não se responsabiliza por quaisquer consequências decorrentes do uso do Software em ambientes onde sua execução seja proibida ou inadequada, incluindo, mas não se limitando a: instituições de ensino, ambientes corporativos, órgãos públicos, redes compartilhadas ou quaisquer locais onde sua utilização possa violar políticas internas, legislações ou regulamentos.
+4.2. Qualquer penalidade, advertência ou prejuízo decorrente do uso do Software em ambientes indevidos será de exclusiva responsabilidade do Usuário.
+
+5. Atos e Condutas do Usuário
+5.1. O desenvolvedor não se responsabiliza por quaisquer atos cometidos pelo Usuário durante ou fora do uso do Software, incluindo ações ilícitas, antiéticas ou que violem direitos de terceiros.
+5.2. O Usuário reconhece que é o único responsável pelo conteúdo, dados e informações geradas ou transmitidas através do Software.
+
+6. Limitação de Garantias
+O Software é fornecido “no estado em que se encontra” (“as is”), sem qualquer garantia expressa ou implícita. O desenvolvedor não garante disponibilidade, desempenho, segurança absoluta, ausência de falhas ou compatibilidade com todos os sistemas e dispositivos.
+
+7. Alterações nos Termos
+O desenvolvedor reserva-se o direito de modificar estes Termos de Uso a qualquer momento, sem aviso prévio. A continuidade do uso do Software após alterações implica na aceitação automática das novas condições.
+
+8. Foro
+Fica eleito o foro da comarca do domicílio do desenvolvedor, com renúncia expressa a qualquer outro, por mais privilegiado que seja, para dirimir eventuais controvérsias oriundas destes Termos de Uso.
+
+
+---
+
+Desenvolvedor: pedromarsan06
+
+
+---
